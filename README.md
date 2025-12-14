@@ -2,7 +2,7 @@
 
 This repository contains a menu-driven Bash shell script that performs multiple operations on a user-provided number using functions and switch-case statements.
 
----
+
 
 ## Features
 - Check whether a number is Prime
@@ -10,13 +10,13 @@ This repository contains a menu-driven Bash shell script that performs multiple 
 - Calculate the sum of series from 1 to n
 - Exit option using switch case
 
----
+
 
 ## Technologies Used
 - Bash Shell Script
 - Linux Operating System
 
----
+
 
 ## How to Run
 ```bash
